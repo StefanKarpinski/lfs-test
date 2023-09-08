@@ -1,0 +1,12 @@
+{
+  "operation": "download",
+  "transfers": [ "basic" ],
+  "ref": { "name": "refs/heads/main" },
+  "objects": [
+    {
+      "oid": "59d9d5efdd610abeb97f51b5744cae88809d879acfe08970a24f34798c954c63",
+      "size": 6961
+    }
+  ],
+  "hash_algo": "sha256"
+}
